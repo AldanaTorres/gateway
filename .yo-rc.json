@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhipster.persona",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.jhipster.persona",
+    "packageFolder": "com/jhipster/persona",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTUwZTIxZGJhMzQ3YTE3YjQzNzI0MTNhNWFjYWVkMWQxYTA5NGYyMTQ4OWE4YmUxNjQ4YTAyMmNkYzU5NzFhNDRmY2JjMGY1N2RlZGU4MzIyOGQ5YmM4NTM5YTYxYjgzYzE0NTFmODNjMTY0ZWQ2ZWE1OTEzZGQxNWI2ZTJjYTk=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1605058392206,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": ["es", "en"],
+    "blueprints": []
+  }
+}
