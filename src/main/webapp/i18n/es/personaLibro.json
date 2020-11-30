@@ -1,0 +1,30 @@
+{
+  "gatewayApp": {
+    "personaLibro": {
+      "home": {
+        "title": "Libros",
+        "createLabel": "Crear nuevo Libro",
+        "createOrEditLabel": "Crear o editar Libro",
+        "notFound": "Ningún Libros encontrado"
+      },
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Libro {{ id }}?"
+      },
+      "detail": {
+        "title": "Libro"
+      },
+      "titulo": "Titulo",
+      "fecha": "Fecha",
+      "genero": "Genero",
+      "paginas": "Paginas",
+      "autor": "Autor"
+    }
+  },
+  "personaApp": {
+    "personaLibro": {
+      "created": "Un nuevo Libro ha sido creado con el identificador {{ param }}",
+      "updated": "Un Libro ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Libro ha sido eliminado con el identificador {{ param }}"
+    }
+  }
+}

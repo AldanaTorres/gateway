@@ -2,7 +2,8 @@
   "generator-jhipster": {
     "promptValues": {
       "packageName": "com.jhipster.persona",
-      "nativeLanguage": "es"
+      "nativeLanguage": "es",
+      "microservicePath": "C:\\Users\\Aldana Torres\\Documents\\Taller de programacion\\microservicio persona"
     },
     "jhipsterVersion": "6.10.4",
     "applicationType": "gateway",

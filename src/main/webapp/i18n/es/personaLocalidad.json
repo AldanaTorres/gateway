@@ -1,0 +1,26 @@
+{
+  "gatewayApp": {
+    "personaLocalidad": {
+      "home": {
+        "title": "Localidads",
+        "createLabel": "Crear nuevo Localidad",
+        "createOrEditLabel": "Crear o editar Localidad",
+        "notFound": "Ningún Localidads encontrado"
+      },
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Localidad {{ id }}?"
+      },
+      "detail": {
+        "title": "Localidad"
+      },
+      "denominacion": "Denominacion"
+    }
+  },
+  "personaApp": {
+    "personaLocalidad": {
+      "created": "Un nuevo Localidad ha sido creado con el identificador {{ param }}",
+      "updated": "Un Localidad ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Localidad ha sido eliminado con el identificador {{ param }}"
+    }
+  }
+}

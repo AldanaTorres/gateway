@@ -1,0 +1,30 @@
+{
+  "gatewayApp": {
+    "personaPersona": {
+      "home": {
+        "title": "Personas",
+        "createLabel": "Create a new Persona",
+        "createOrEditLabel": "Create or edit a Persona",
+        "notFound": "No Personas found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Persona {{ id }}?"
+      },
+      "detail": {
+        "title": "Persona"
+      },
+      "nombre": "Nombre",
+      "apellido": "Apellido",
+      "dni": "Dni",
+      "domicilio": "Domicilio",
+      "libro": "Libro"
+    }
+  },
+  "personaApp": {
+    "personaPersona": {
+      "created": "A new Persona is created with identifier {{ param }}",
+      "updated": "A Persona is updated with identifier {{ param }}",
+      "deleted": "A Persona is deleted with identifier {{ param }}"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "gatewayApp": {
+    "personaDomicilio": {
+      "home": {
+        "title": "Domicilios",
+        "createLabel": "Create a new Domicilio",
+        "createOrEditLabel": "Create or edit a Domicilio",
+        "notFound": "No Domicilios found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Domicilio {{ id }}?"
+      },
+      "detail": {
+        "title": "Domicilio"
+      },
+      "calle": "Calle",
+      "numero": "Numero",
+      "localidad": "Localidad"
+    }
+  },
+  "personaApp": {
+    "personaDomicilio": {
+      "created": "A new Domicilio is created with identifier {{ param }}",
+      "updated": "A Domicilio is updated with identifier {{ param }}",
+      "deleted": "A Domicilio is deleted with identifier {{ param }}"
+    }
+  }
+}

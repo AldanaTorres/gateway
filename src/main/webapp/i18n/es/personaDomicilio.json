@@ -1,0 +1,28 @@
+{
+  "gatewayApp": {
+    "personaDomicilio": {
+      "home": {
+        "title": "Domicilios",
+        "createLabel": "Crear nuevo Domicilio",
+        "createOrEditLabel": "Crear o editar Domicilio",
+        "notFound": "Ningún Domicilios encontrado"
+      },
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Domicilio {{ id }}?"
+      },
+      "detail": {
+        "title": "Domicilio"
+      },
+      "calle": "Calle",
+      "numero": "Numero",
+      "localidad": "Localidad"
+    }
+  },
+  "personaApp": {
+    "personaDomicilio": {
+      "created": "Un nuevo Domicilio ha sido creado con el identificador {{ param }}",
+      "updated": "Un Domicilio ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Domicilio ha sido eliminado con el identificador {{ param }}"
+    }
+  }
+}
